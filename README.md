@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sevrep
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Android Application Development
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me https://github.com/Sevrep
 
